@@ -3,10 +3,17 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "5d6d0f8b00243506f56e7acdd696598e",
+  "assets/AssetManifest.json": "1bd4b17c3855118badf55345998a480c",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
+"assets/assets/images/ABCDrules/Skinspot_A.png": "3154ed7add805b8c15b108f27eb6f435",
+"assets/assets/images/ABCDrules/Skinspot_B.png": "0c03872dd4f9edd009d2665410fe918b",
+"assets/assets/images/ABCDrules/Skinspot_C.png": "66cdf52fa5b74a85ec1daca04109482e",
+"assets/assets/images/ABCDrules/Skinspot_change_color.png": "08cc86b7e504e8ce45b83ba59603cab5",
+"assets/assets/images/ABCDrules/Skinspot_change_different.png": "eb10dfb29982b0c3a7db013cd8b23823",
+"assets/assets/images/ABCDrules/Skinspot_change_pain.png": "39f52b1b43abd8987421fd804a1a4b8b",
+"assets/assets/images/ABCDrules/Skinspot_D.png": "ebffa3efa9495ab291fb1d00c2c2dcca",
 "assets/assets/images/avatar/birthmark.png": "a9b02c4121d9fe4a29bd85610eb5814b",
 "assets/assets/images/avatar/drawingBlock.png": "b7ddffa76d9aa5a57aef841c6bcbef01",
 "assets/assets/images/avatar/gene.png": "c25704cd35d499412debb864679045fb",
@@ -213,9 +220,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "0842199f29fe4fa052f807f3c9e9bdb6",
-"/": "0842199f29fe4fa052f807f3c9e9bdb6",
-"main.dart.js": "f408abcdd6fef34d5b564c9b0f180d63",
+"index.html": "5d1847d16197fac780cf4a1c338606ff",
+"/": "5d1847d16197fac780cf4a1c338606ff",
+"main.dart.js": "ad21ec46278a8b86143415ef3a472786",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
