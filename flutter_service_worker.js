@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "f671881e2d3cdf659a360859ca3deaac",
+  "assets/AssetManifest.json": "b1acd492251b288e0d4cdea4e6bc77db",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
@@ -16,6 +16,7 @@ const RESOURCES = {
 "assets/assets/images/ABCDrules/Skinspot_D.png": "1ca54ab0a6aaaa83c8a60fc829fef676",
 "assets/assets/images/avatar/birthmark.png": "a9b02c4121d9fe4a29bd85610eb5814b",
 "assets/assets/images/avatar/drawingBlock.png": "b7ddffa76d9aa5a57aef841c6bcbef01",
+"assets/assets/images/avatar/familyTree.png": "705a279494d3e306ec4dd3ce207ae437",
 "assets/assets/images/avatar/gene.png": "c25704cd35d499412debb864679045fb",
 "assets/assets/images/avatar/man/man_40-55_black_complete.png": "61ac284888b698ff29203a304a501b0c",
 "assets/assets/images/avatar/man/man_40-55_black_exam.png": "849ea922af4335212c95536565c677a8",
@@ -224,8 +225,8 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "04f3c3852e088c304e47dc671cc4188e",
-"/": "04f3c3852e088c304e47dc671cc4188e",
+"index.html": "eafb810ca3399a0ef4b9f1afeac802e1",
+"/": "eafb810ca3399a0ef4b9f1afeac802e1",
 "main.dart.js": "9b9e1045cf59c6cd4928febb70ff0b2d",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
