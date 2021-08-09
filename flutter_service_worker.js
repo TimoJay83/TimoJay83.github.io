@@ -3,12 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "e1498ec08434d92480adc6f9c5f0e804",
+  "assets/AssetManifest.json": "f671881e2d3cdf659a360859ca3deaac",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
-"assets/assets/images/ABCDrules/Skinspot_A%2520.png": "8ce4470288e0a2ecd2688e68c408a122",
-"assets/assets/images/ABCDrules/Skinspot_A.png": "3154ed7add805b8c15b108f27eb6f435",
+"assets/assets/images/ABCDrules/Skinspot_A.png": "8ce4470288e0a2ecd2688e68c408a122",
 "assets/assets/images/ABCDrules/Skinspot_B.png": "5b6fe9c3cae41ed1ac02e2853474f632",
 "assets/assets/images/ABCDrules/Skinspot_C.png": "b12cc76966ec9908e338ce5f99d77a8e",
 "assets/assets/images/ABCDrules/Skinspot_change_color.png": "790e80078ec5cd3a1bc08f986d19e165",
@@ -225,9 +224,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "8e3cf97cff6757715389fb3b1d5c7d4e",
-"/": "8e3cf97cff6757715389fb3b1d5c7d4e",
-"main.dart.js": "e993a62f551040d9078524787fbb7313",
+"index.html": "cc08e4a9f5ce960faa1685e9c6427a25",
+"/": "cc08e4a9f5ce960faa1685e9c6427a25",
+"main.dart.js": "baef7bdd393aed8586bb390ee5c74886",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
