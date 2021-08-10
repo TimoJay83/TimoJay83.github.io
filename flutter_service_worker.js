@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "b1acd492251b288e0d4cdea4e6bc77db",
+  "assets/AssetManifest.json": "2272058e1f1d51e5a0850f0487b38d90",
 "assets/assets/fonts/openSans/OpenSans-Bold.ttf": "1025a6e0fb0fa86f17f57cc82a6b9756",
 "assets/assets/fonts/openSans/OpenSans-Regular.ttf": "3ed9575dcc488c3e3a5bd66620bdf5a4",
 "assets/assets/fonts/openSans/OpenSans-SemiBold.ttf": "ba5cde21eeea0d57ab7efefc99596cce",
@@ -205,6 +205,16 @@ const RESOURCES = {
 "assets/assets/images/result/unknownRisk.png": "feabd6b14cabfb94fd8f314aba1c4552",
 "assets/assets/images/result/upButton.png": "3364bf360686a64c943be4667f73bd43",
 "assets/assets/images/result/veryHighRisk.png": "be71259e7b90dddd1f8f5dd6026455b0",
+"assets/assets/images/Risiko_Ergebnis/ErgebnisUnbekannt.svg": "0e608404879d3d8c4aedd5646d8a7f57",
+"assets/assets/images/Risiko_Ergebnis/RisikoIstErhoeht.svg": "5693d2fb7ec8adab75ff6ce18f4000e4",
+"assets/assets/images/Risiko_Ergebnis/RisikoIstHoch.svg": "fddb5f4e15cd6271781c4aa1c7a5a853",
+"assets/assets/images/Risiko_Ergebnis/RisikoistLeichtErh%25C3%25B6ht.svg": "779cd32859557e5dffeffd1d4e52903b",
+"assets/assets/images/Risiko_Ergebnis/RiskioIstSehrHoch.svg": "1c1eedcec35b58b0f4ebc118b5af5ac7",
+"assets/assets/images/Risiko_Ergebnis/RiskResult_high.png": "e84b7114087cb0e4187ce3a53b16ad9f",
+"assets/assets/images/Risiko_Ergebnis/RiskResult_low.png": "e94a75e67364ab6705391af9c4d34a93",
+"assets/assets/images/Risiko_Ergebnis/RiskResult_medium.png": "bb26bf16e3c25bdc0fb842358d29493d",
+"assets/assets/images/Risiko_Ergebnis/RiskResult_moderate.png": "8911227226d59f492f37eb5d9c384e09",
+"assets/assets/images/Risiko_Ergebnis/RiskResult_veryhigh.png": "15d8513d829cb8e3a85ec8a83bb05725",
 "assets/assets/images/RussianFlag.png": "cfb70a5cff898ddc16a1879a0d510817",
 "assets/assets/images/screening/doctor_1.png": "9f366167649249aa63d13164defe1126",
 "assets/assets/images/screening/Doctor_control.png": "50d240d4af9a7d09b4dd74c7aac3c50b",
@@ -225,9 +235,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "161032f416f3eff47e09e02ca5d2e818",
-"/": "161032f416f3eff47e09e02ca5d2e818",
-"main.dart.js": "64ce461a6e52d4b2bcd01e864692d8b5",
+"index.html": "b1ebdc53edd2b50992ac7ba9b8547335",
+"/": "b1ebdc53edd2b50992ac7ba9b8547335",
+"main.dart.js": "2dc4f8689c27c36e31c350dd320574d6",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
