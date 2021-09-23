@@ -11,7 +11,7 @@ const RESOURCES = {
 "assets/assets/images/ABCDrules/Skinspot_B.png": "4c5059d1a6180253d44ad5da684f078e",
 "assets/assets/images/ABCDrules/Skinspot_C.png": "72906f27269f267f230cb6f973ac32cd",
 "assets/assets/images/ABCDrules/Skinspot_change_color.png": "a90e4809d4ee90ef1cbb9945561595f5",
-"assets/assets/images/ABCDrules/Skinspot_change_different.png": "8c5478aca9374af7d73773ade9033319",
+"assets/assets/images/ABCDrules/Skinspot_change_different.png": "0e5626efc281c976edd69eb31072f615",
 "assets/assets/images/ABCDrules/Skinspot_change_pain.png": "e4d4f93b100a277c982377221293418f",
 "assets/assets/images/ABCDrules/Skinspot_D.png": "0fdb004ce7470d4b4f2d3aa0315eeba0",
 "assets/assets/images/avatar/birthmark.png": "a9b02c4121d9fe4a29bd85610eb5814b",
@@ -237,9 +237,9 @@ const RESOURCES = {
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "aa1acf26c27c6d266dd1e929f670fb00",
-"/": "aa1acf26c27c6d266dd1e929f670fb00",
-"main.dart.js": "43fcce6b1188f4e8d98ad424d8fc6c5a",
+"index.html": "aba0f475fe338ec7f8ee1eb317076697",
+"/": "aba0f475fe338ec7f8ee1eb317076697",
+"main.dart.js": "34bddaa182d26cc477a0003a68923b69",
 "manifest.json": "0bf404ba6fb5df0d9e8c3fcb4e15594d",
 "version.json": "ef8aba205d5d76752eef0cb37fb7c8b0"
 };
